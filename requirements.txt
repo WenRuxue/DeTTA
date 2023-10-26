@@ -1,0 +1,9 @@
+numpy==1.19.2
+opencv_python==4.4.0.46
+opencv_python_headless==4.4.0.46
+Pillow==9.2.0
+Pillow==9.5.0
+SimpleITK==2.2.1
+torch==1.8.0a0+1606899
+torchvision==0.9.0a0
+tqdm==4.53.0
